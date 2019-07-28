@@ -6,5 +6,9 @@
 		{
 			"path": "great-idea"
 		}
-	]
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "great-idea",
+		"liveServer.settings.port": 5501
+	}
 }
